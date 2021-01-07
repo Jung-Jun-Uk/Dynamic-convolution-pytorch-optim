@@ -3,9 +3,9 @@
 Paper: [Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/pdf/1912.03458.pdf)
 
 
-Implementation with reference to https://github.com/kaijieshi7/Dynamic-convolution-Pytorch 
+Implementation with reference to [1] https://github.com/kaijieshi7/Dynamic-convolution-Pytorch
 
-The training time is __about 7 times faster__ on the cifar10 dataset.
+The training time is __about 7 times faster__ than [1] upper link on the cifar10 dataset.
 
 ### Check
 ```python
