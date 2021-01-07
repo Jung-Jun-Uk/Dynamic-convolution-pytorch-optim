@@ -15,7 +15,7 @@ python dyconv2d.py
 ### Training
 ```python
 python train.py 
-    --device 'cuda device, i.e. 0 or 0,1,2,3 or cpu'
+    --device 0 #'cuda device, i.e. 0 or 0,1,2,3 or cpu'
     --training_optim #training more faster
 ```
 
